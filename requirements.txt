@@ -1,0 +1,6 @@
+fastapi
+pydantic
+scikit-learn
+openai==0.28
+python-dotenv
+uvicorn
